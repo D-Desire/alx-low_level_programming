@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
- *  * main - This is a programm
- *   * Description: prints the sieze of variable types
- *    * Return: Always 0 (Success)
- *     */
+ *  main - This is a program
+ *  Description: prints the size of variable types
+ *  Return: Always 0 (Success)
+ */
 int main(void)
 {
 	printf("Size of a char: %lu byte(s)\n", sizeof(char));
